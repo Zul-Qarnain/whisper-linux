@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Whisper Flow
+Exec=whisper-flow run
+Icon=whisper-flow
+Categories=Utility;AudioVideo;
+Comment=Offline voice typing with whisper.cpp

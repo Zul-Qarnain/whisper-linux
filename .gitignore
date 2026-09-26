@@ -1,0 +1,7 @@
+/target
+/crates/target
+*.part
+.crush/
+skeleton-backup/
+record.wav
+out.wav
